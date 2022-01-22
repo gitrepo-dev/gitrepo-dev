@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Rajesh Kumar <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h3 align="center">A professional full stack web develoepr</h3>
+<h3 align="center">I work with various type of technologies & always ready to adopt new tech.</h3>
 
-<!--
-**gitrepo-dev/gitrepo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working as a fulltime **freelancer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ My skills **HTML5, CSS3, SCSS, BootStrap, JavaScript, ReactJS, Redux, NodeJS, TailWind, WordPress Theme Development, git**
+
+- 🌱 I’m passionate about **technologies love to explore the tech, gadgets, AI/ML/IOT things to gain experience and knowledge** 
+
+- ⚡ I love to develope cool projects and always do **R&D** and **Take challenges** to take my skills at **Next level**
+
+- 👯 I’m always open & ready to collaborate on projects related to **blockChain/Artificial Intelligence/Machine Learning/Internet of Things**
