@@ -5,8 +5,8 @@
 
 
 
-<div align="center">
-  <h3 style="margin-left: 25px">About Me</h3>
+<div align="left"  width="70%">
+  <h3 style="margin-left: 40px">About Me</h3>
   
  - 🔭 I’m currently working as a fulltime **freelancer**
 
@@ -19,6 +19,6 @@
 - 👯 I’m always open & ready to collaborate on projects related to **blockChain/Artificial Intelligence/Machine Learning/Internet of Things**
 </div>
 
-<div align="center">
+<div align="right"  width="30%">
 <img align="right" height="auto" width="250" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 </div>
