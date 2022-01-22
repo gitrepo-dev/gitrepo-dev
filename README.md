@@ -117,12 +117,16 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitrepo-dev&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/gitrepo-dev)
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gitrepo-dev&&theme=material-palenight)](https://github.com/gitrepo-dev)
+
+
 [![](https://github-readme-streak-stats.herokuapp.com/?user=gitrepo-dev&theme=material-palenight)](https://github.com/gitrepo-dev)
 </div>
 
 ----
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+  <img  src="https://raw.githubusercontent.com/gitrepo-dev/gitrepo-dev/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
