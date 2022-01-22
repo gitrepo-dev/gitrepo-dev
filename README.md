@@ -1,12 +1,19 @@
+
+<p  align="center">
+<img align="center" height="auto" width="250" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+</p>
+
+----
+
 <h1 align="center">Hi 👋, I'm Rajesh Kumar <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A professional full stack web develoepr</h3>
 <h3 align="center">I work with various type of technologies & always ready to adopt new tech.</h3>
 
 
+----
 
 
 <div  style="margin-top: 50px">
-      <h3 style="margin-left: 50px">About Me</h3>
   
  - 🔭 I’m currently working as a fulltime **freelancer**
 
@@ -19,14 +26,7 @@
 - 👯 I’m always open & ready to collaborate on projects related to **blockChain/Artificial Intelligence/Machine Learning/IOT**
 </div>
 
-<p  align="center">
-<img align="center" height="auto" width="250" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
-</p>
-
-
-
-
-
+----
 
 <h3 align="center">Frontend</h3>
 <p align="center">
