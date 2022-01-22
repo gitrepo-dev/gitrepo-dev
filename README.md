@@ -120,10 +120,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gitrepo-dev&&theme=material-palenight)](https://github.com/gitrepo-dev)
 
-
-[![](https://github-readme-streak-stats.herokuapp.com/?user=gitrepo-dev&theme=material-palenight)](https://github.com/gitrepo-dev)
-</div>
-
 ----
 
 <p align="center">
