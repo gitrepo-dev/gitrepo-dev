@@ -102,11 +102,11 @@
   <a  href="https://linkedin.com/in/rajesh-kumar-developer" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
     </a>
+     <a href="https://gitrepo-dev.github.io/rajesh-kumar-developer" target="_blank">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="mailto:jaysean.developer@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://gitrepo-dev.github.io/rajesh-kumar-developer" target="_blank">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
@@ -115,7 +115,9 @@
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=elanza-48&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Elanza-48)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajeshKumar&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![](https://github-readme-streak-stats.herokuapp.com/?user=elanza-48&theme=material-palenight)](https://github.com/Elanza-48)
 </div>
 
